@@ -1,8 +1,9 @@
 
 
-
+# Architecture Diagram
 
 <img width="764" height="310" alt="PatientVitalMonitoring drawio" src="https://github.com/user-attachments/assets/36b1cac5-81e3-4253-bb57-339b511c60ba" />
+
 
 
 
